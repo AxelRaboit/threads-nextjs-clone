@@ -9,3 +9,5 @@
     - mongoose
     - svix
     
+# START PROJECT
+    npm run dev
